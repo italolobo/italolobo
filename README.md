@@ -136,7 +136,7 @@ My name is Ítalo Lobo, and I am a professional passionate about ensuring the qu
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -156,3 +156,4 @@ My name is Ítalo Lobo, and I am a professional passionate about ensuring the qu
   />
 
 </p>
+-->
