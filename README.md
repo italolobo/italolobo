@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Italo Lobo
+![image](https://github.com/user-attachments/assets/b2e794f7-1eef-4ec5-abaa-7720edad3a5a)![image](https://github.com/user-attachments/assets/c8dfa338-17de-48f9-ac32-310afedda533)# 👩🏻‍💻 Italo Lobo
 
 **`QA Engineer`**
 
@@ -79,6 +79,22 @@ My name is Ítalo Lobo, and I am a professional passionate about ensuring the qu
 />
 <img 
     align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://netdata.cloud/img/pandas.png" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" 
+/>
+<img 
+    align="left" 
     alt="SQlite" 
     title="SQlite"
     width="30px" 
@@ -100,6 +116,14 @@ My name is Ítalo Lobo, and I am a professional passionate about ensuring the qu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" 
 />
 
 <br/>
