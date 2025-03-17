@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2e794f7-1eef-4ec5-abaa-7720edad3a5a)![image](https://github.com/user-attachments/assets/c8dfa338-17de-48f9-ac32-310afedda533)# 👩🏻‍💻 Italo Lobo
+# 👩🏻‍💻 Italo Lobo
 
 **`QA Engineer`**
 
@@ -111,19 +111,27 @@ My name is Ítalo Lobo, and I am a professional passionate about ensuring the qu
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="VSCode" 
     title="VSCode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png" 
+/>
+<img 
+    align="left" 
+    alt="Jira Xray" 
+    title="Jira Xray"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://avatars.slack-edge.com/2018-11-30/493753869479_4b703f4119efe3d7d0ff_512.png" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
