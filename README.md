@@ -2,7 +2,7 @@
 
 **`QA Engineer`**
 
-My name is Ítalo Lobo, and I am a professional passionate about ensuring the quality and efficiency of software solutions. With good experience in manual and automated testing, as well as software development, I have contributed to projects across various industries. My expertise includes tools such as Cypress, Selenium WebDriver, SQL, Python, and Node.js, as well as agile methodologies like Scrum and BDD..
+My name is Ítalo Lobo, and I am a professional passionate about ensuring the quality and efficiency of software solutions. With good experience in manual and automated testing, as well as software development, I have contributed to projects across various industries. My expertise includes tools such as Cypress, Playwright, SQL, Python, and Node.js, as well as agile methodologies like Scrum and BDD..
 
 
 
@@ -55,11 +55,11 @@ My name is Ítalo Lobo, and I am a professional passionate about ensuring the qu
 />
 <img 
     align="left" 
-    alt="Selenium"
-    title="Selenium" 
+    alt="Playwright" 
+    title="Playwright" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" 
+    src="https://playwright.dev/img/playwright-logo.svg" 
 />
 <img 
     align="left" 
